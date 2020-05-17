@@ -17,7 +17,8 @@ public class arraylist {
 		System.out.println(totalelement);
 		//String s = l1.get(0);
 		
-			System.out.println(l1);
+
+
 			System.out.println(l1.get(0));
 		
 		
